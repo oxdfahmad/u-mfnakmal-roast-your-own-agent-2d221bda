@@ -1,0 +1,1 @@
+My agent turns 'hi' into a 47-step plan, hallucinates steps 12-46, opens with 'Great question!' - then asks me what I meant.
